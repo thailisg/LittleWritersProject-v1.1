@@ -26,7 +26,7 @@ My objective is to create an intuitive Android application that is free from tho
 
 Link for the video demonstration (soon)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8woAkeUC6Ug)
 
 # Development Environment
 
